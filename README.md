@@ -10,6 +10,8 @@ Adicionalmente, el manejo eficiente de datos se ha convertido en un desafío glo
 
 Este proyecto aborda ambas perspectivas: analizar las exportaciones de espárrago al mercado español y proporcionar información clara y procesable mediante un dashboard interactivo.
 
+Puedes acceder al dashboard interactivo presionando [este link](https://app.powerbi.com/groups/me/reports/3de82562-25df-4620-b2bb-b35c6852fa39?ctid=0e0cb060-09ad-49f5-a005-68b9b49aa1f6&pbi_source=linkShare&bookmarkGuid=4a4174c7-a2b0-4965-a7fa-195d61760453)
+
 ---
 
 ## Data Structure
