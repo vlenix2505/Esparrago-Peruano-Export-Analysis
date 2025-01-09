@@ -1,6 +1,7 @@
 # Exportaciones de Espárrago Peruano al Mercado Español (2023)
 
-![image](https://github.com/user-attachments/assets/a68c532c-9498-4fe3-917f-1f65872ded04)
+![image](https://github.com/user-attachments/assets/7efc72b2-86c9-43c2-b5d7-b650a280f0b6)
+
 
 
 ## Project Background
