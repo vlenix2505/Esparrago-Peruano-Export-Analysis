@@ -1,4 +1,4 @@
-# Peruvian Asparagus Export Analysis: Insights into the Spanish Market (2023)
+# Espárrago Peruano Export Analysis: Insights into the Spanish Market (2023)
 
 ![image](https://github.com/user-attachments/assets/7efc72b2-86c9-43c2-b5d7-b650a280f0b6)
 
